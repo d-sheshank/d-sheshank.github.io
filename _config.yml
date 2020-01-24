@@ -14,10 +14,33 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Millennial"
-description:	       "a Jekyll theme for running a blog or publication"
-author:              "Paul Le"
+title:		           "Thoughts"
+description:	       "A personal website"
+author:              "Sheshank Dudyala"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+
+# permalink: /:year/:month/:day/:title/
+
+# social_media:
+#   # behance: your_username
+#   # dribbble: your_username
+#   facebook: d.sheshank
+#   # hackerrank: your_username
+#   # instagram: your_username
+#   # keybase: your_username
+#   linkedin: sheshankd
+#   # mastodon: your_username
+#   # medium: your_username
+#   # stackoverflow: your_user_id
+#   # telegram: your_username
+#   # twitter: your_username
+#   # unsplash: your_username
+#   # vk: your_username
+#   website: http://sheshankdudyala.com
+#   # youtube: your_username
+
+
